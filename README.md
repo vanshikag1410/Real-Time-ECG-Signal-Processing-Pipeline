@@ -1,5 +1,13 @@
 # 🫀 Real-Time ECG Signal Processing Pipeline
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![DSP](https://img.shields.io/badge/Digital%20Signal%20Processing-ECG-blueviolet)
+![Real-Time](https://img.shields.io/badge/Mode-Real--Time-red)
+![FPGA](https://img.shields.io/badge/FPGA-Deployment%20Ready-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 > A modular real-time ECG signal processing framework for continuous cardiac monitoring featuring adaptive preprocessing, Pan-Tompkins based PQRST delineation, physiological validation, and a streaming architecture designed for future FPGA deployment.
 
 ---
