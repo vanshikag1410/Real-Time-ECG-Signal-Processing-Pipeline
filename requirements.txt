@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.11
+matplotlib>=3.8
+pandas>=2.0
+wfdb>=4.1
+neurokit2>=0.2.7
+pyserial>=3.5
+jupyter>=1.0
+ipykernel>=6.0
